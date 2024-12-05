@@ -13,4 +13,5 @@ int square(int a)
     int b;
     b=a*a;
     cout<<"Square is= "<<b;
+    return 0;
 }
